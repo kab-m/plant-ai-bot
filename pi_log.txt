@@ -1,0 +1,3263 @@
+INFO:root:
+########## Date: 21/05/2024 Time: 23:41:01
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 10.83
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 23C
+INFO:root:
+Reading Soils...
+INFO:root:
+peace-lily-1:
+Soil: 4.87
+Watered: 0, 0
+INFO:root:
+peace-lily-2:
+Soil: 26.63
+Watered: 1, 1000
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data_1.csv OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data_2.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 61%, 22C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.17
+INFO:root:
+Lower:
+Soil Moisture: 18.68
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.19
+INFO:root:
+Lower:
+Soil Moisture: 18.56
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 59%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.24
+INFO:root:
+Lower:
+Soil Moisture: 18.56
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.25
+INFO:root:
+Lower:
+Soil Moisture: 18.62
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.14
+INFO:root:
+Lower:
+Soil Moisture: 18.58
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.2
+INFO:root:
+Lower:
+Soil Moisture: 18.52
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.23
+INFO:root:
+Lower:
+Soil Moisture: 18.58
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.94
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.88
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 18.04
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.02
+INFO:root:
+Lower:
+Soil Moisture: 18.02
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.92
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.92
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.0
+INFO:root:
+Lower:
+Soil Moisture: 18.01
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.99
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.96
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.97
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.12
+INFO:root:
+Lower:
+Soil Moisture: 17.98
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 18.0
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.94
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.88
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.08
+INFO:root:
+Lower:
+Soil Moisture: 18.05
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.0
+INFO:root:
+Lower:
+Soil Moisture: 18.01
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.81
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.87
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 18.0
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.92
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.96
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.89
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.02
+INFO:root:
+Lower:
+Soil Moisture: 18.06
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.86
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.94
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.96
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.87
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.9
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.94
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.06
+INFO:root:
+Lower:
+Soil Moisture: 18.06
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.02
+INFO:root:
+Lower:
+Soil Moisture: 17.97
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.04
+INFO:root:
+Lower:
+Soil Moisture: 17.96
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.85
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.02
+INFO:root:
+Lower:
+Soil Moisture: 18.04
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.93
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.8
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.05
+INFO:root:
+Lower:
+Soil Moisture: 17.9
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.8
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.06
+INFO:root:
+Lower:
+Soil Moisture: 18.04
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.11
+INFO:root:
+Lower:
+Soil Moisture: 18.04
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 18.08
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.01
+INFO:root:
+Lower:
+Soil Moisture: 17.99
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.96
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.95
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.01
+INFO:root:
+Lower:
+Soil Moisture: 17.88
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.01
+INFO:root:
+Lower:
+Soil Moisture: 17.99
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.0
+INFO:root:
+Lower:
+Soil Moisture: 17.98
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.86
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.04
+INFO:root:
+Lower:
+Soil Moisture: 17.94
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 18.0
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.86
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.86
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 17.94
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.21
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 18.21
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.06
+INFO:root:
+Lower:
+Soil Moisture: 18.38
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.14
+INFO:root:
+Lower:
+Soil Moisture: 18.3
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.49
+INFO:root:
+Lower:
+Soil Moisture: 18.64
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.51
+INFO:root:
+Lower:
+Soil Moisture: 18.77
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.42
+INFO:root:
+Lower:
+Soil Moisture: 18.85
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.59
+INFO:root:
+Lower:
+Soil Moisture: 18.92
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.53
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.41
+INFO:root:
+Lower:
+Soil Moisture: 18.9
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.47
+INFO:root:
+Lower:
+Soil Moisture: 18.88
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.43
+INFO:root:
+Lower:
+Soil Moisture: 18.87
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.39
+INFO:root:
+Lower:
+Soil Moisture: 18.88
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.5
+INFO:root:
+Lower:
+Soil Moisture: 18.88
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.48
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.43
+INFO:root:
+Lower:
+Soil Moisture: 18.94
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.49
+INFO:root:
+Lower:
+Soil Moisture: 18.85
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.42
+INFO:root:
+Lower:
+Soil Moisture: 18.84
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.46
+INFO:root:
+Lower:
+Soil Moisture: 18.92
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.5
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.48
+INFO:root:
+Lower:
+Soil Moisture: 18.88
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.49
+INFO:root:
+Lower:
+Soil Moisture: 18.92
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.51
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.47
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.42
+INFO:root:
+Lower:
+Soil Moisture: 18.92
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.45
+INFO:root:
+Lower:
+Soil Moisture: 18.85
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.48
+INFO:root:
+Lower:
+Soil Moisture: 18.87
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.47
+INFO:root:
+Lower:
+Soil Moisture: 18.91
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.52
+INFO:root:
+Lower:
+Soil Moisture: 18.93
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.59
+INFO:root:
+Lower:
+Soil Moisture: 19.06
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.7
+INFO:root:
+Lower:
+Soil Moisture: 19.17
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.48
+INFO:root:
+Lower:
+Soil Moisture: 18.96
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.47
+INFO:root:
+Lower:
+Soil Moisture: 18.94
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.44
+INFO:root:
+Lower:
+Soil Moisture: 18.93
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.51
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.46
+INFO:root:
+Lower:
+Soil Moisture: 18.88
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.46
+INFO:root:
+Lower:
+Soil Moisture: 18.89
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.46
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.47
+INFO:root:
+Lower:
+Soil Moisture: 18.92
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.44
+INFO:root:
+Lower:
+Soil Moisture: 18.91
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.45
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.48
+INFO:root:
+Lower:
+Soil Moisture: 18.92
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.51
+INFO:root:
+Lower:
+Soil Moisture: 18.9
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.4
+INFO:root:
+Lower:
+Soil Moisture: 18.85
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.62
+INFO:root:
+Lower:
+Soil Moisture: 18.92
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.48
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.49
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.48
+INFO:root:
+Lower:
+Soil Moisture: 18.9
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.48
+INFO:root:
+Lower:
+Soil Moisture: 18.84
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 18.11
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.02
+INFO:root:
+Lower:
+Soil Moisture: 18.2
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 18.22
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.02
+INFO:root:
+Lower:
+Soil Moisture: 18.14
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.13
+INFO:root:
+Lower:
+Soil Moisture: 18.3
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.11
+INFO:root:
+Lower:
+Soil Moisture: 18.38
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.12
+INFO:root:
+Lower:
+Soil Moisture: 18.29
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.15
+INFO:root:
+Lower:
+Soil Moisture: 18.36
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.2
+INFO:root:
+Lower:
+Soil Moisture: 18.46
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.12
+INFO:root:
+Lower:
+Soil Moisture: 18.36
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.22
+INFO:root:
+Lower:
+Soil Moisture: 18.24
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.13
+INFO:root:
+Lower:
+Soil Moisture: 18.44
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.14
+INFO:root:
+Lower:
+Soil Moisture: 18.32
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.12
+INFO:root:
+Lower:
+Soil Moisture: 18.38
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.15
+INFO:root:
+Lower:
+Soil Moisture: 18.22
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.15
+INFO:root:
+Lower:
+Soil Moisture: 18.34
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.12
+INFO:root:
+Lower:
+Soil Moisture: 18.34
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.17
+INFO:root:
+Lower:
+Soil Moisture: 18.38
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.14
+INFO:root:
+Lower:
+Soil Moisture: 18.38
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.15
+INFO:root:
+Lower:
+Soil Moisture: 18.35
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.16
+INFO:root:
+Lower:
+Soil Moisture: 18.32
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0
+INFO:root:
+Lower:
+Soil Moisture: 18.24
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.17
+INFO:root:
+Lower:
+Soil Moisture: 18.34
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.15
+INFO:root:
+Lower:
+Soil Moisture: 18.39
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.17
+INFO:root:
+Lower:
+Soil Moisture: 18.34
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.12
+INFO:root:
+Lower:
+Soil Moisture: 18.32
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.18
+INFO:root:
+Lower:
+Soil Moisture: 18.39
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.17
+INFO:root:
+Lower:
+Soil Moisture: 18.3
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.18
+INFO:root:
+Lower:
+Soil Moisture: 18.3
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.17
+INFO:root:
+Lower:
+Soil Moisture: 18.34
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.46
+INFO:root:
+Lower:
+Soil Moisture: 18.62
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.21
+INFO:root:
+Lower:
+Soil Moisture: 18.5
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.45
+INFO:root:
+Lower:
+Soil Moisture: 18.72
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.48
+INFO:root:
+Lower:
+Soil Moisture: 18.87
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.48
+INFO:root:
+Lower:
+Soil Moisture: 18.87
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.52
+INFO:root:
+Lower:
+Soil Moisture: 18.89
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.52
+INFO:root:
+Lower:
+Soil Moisture: 18.94
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.51
+INFO:root:
+Lower:
+Soil Moisture: 18.88
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.44
+INFO:root:
+Lower:
+Soil Moisture: 18.85
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.59
+INFO:root:
+Lower:
+Soil Moisture: 18.93
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.5
+INFO:root:
+Lower:
+Soil Moisture: 18.86
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.52
+INFO:root:
+Lower:
+Soil Moisture: 18.9
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.0
+INFO:root:
+Lower:
+Soil Moisture: 18.2
+INFO:root:Error reading sensors: list index out of range
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 0.0
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 60%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.06
+INFO:root:
+Lower:
+Soil Moisture: 18.23
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+########## Date: 25/05/2024 Time: 03:36:33
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 1.67
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 59%, 18C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 1.28
+INFO:root:
+Lower:
+Soil Moisture: 20.54
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:Predicted value: 16.450000762939453
+INFO:root:Pump ON
+INFO:root:Pump OFF - 200ml
+INFO:root:
+########## Date: 25/05/2024 Time: 03:38:01
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 1.25
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 62%, 15C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.82
+INFO:root:
+Lower:
+Soil Moisture: 20.67
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:Predicted value: 16.860000610351562
+INFO:root:Pump ON
+INFO:root:Pump OFF - 200ml
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 62%, 15C
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 5.83
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.82
+INFO:root:
+Lower:
+Soil Moisture: 20.66
+INFO:root:Pump ON
+INFO:root:Pump OFF - 200ml
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 62%, 15C
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 11.67
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.83
+INFO:root:
+Lower:
+Soil Moisture: 20.61
+INFO:root:Pump ON
+INFO:root:Pump OFF - 200ml
+INFO:root:
+########## Date: 25/05/2024 Time: 03:41:21
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 11.25
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 62%, 15C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.67
+INFO:root:
+Lower:
+Soil Moisture: 20.93
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 62%, 15C
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 11.67
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.69
+INFO:root:
+Lower:
+Soil Moisture: 20.42
+INFO:root:Pump ON
+INFO:root:Pump OFF - 200ml
+INFO:root:
+########## Date: 25/05/2024 Time: 03:43:14
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 12.08
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 62%, 15C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.78
+INFO:root:
+Lower:
+Soil Moisture: 20.52
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+########## Date: 25/05/2024 Time: 03:45:57
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 13.33
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 62%, 15C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.78
+INFO:root:
+Lower:
+Soil Moisture: 20.56
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+########## Date: 25/05/2024 Time: 03:46:46
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 13.33
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 62%, 15C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.75
+INFO:root:
+Lower:
+Soil Moisture: 20.4
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:Predicted value: 19.709999084472656
+INFO:root:Pump ON
+INFO:root:Pump OFF - 200ml
+INFO:root:
+########## Date: 25/05/2024 Time: 03:50:04
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 13.33
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 62%, 15C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.77
+INFO:root:
+Lower:
+Soil Moisture: 20.43
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:Predicted value: 19.709999084472656
+INFO:root:Pump ON
+INFO:root:Pump OFF - 200ml
+INFO:root:
+########## Date: 25/05/2024 Time: 03:52:29
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 11.25
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 63%, 15C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 0.73
+INFO:root:
+Lower:
+Soil Moisture: 20.3
+INFO:root:
+Packaging Data...
+INFO:root:Packing OK!
+INFO:root:Predicted value: 19.709999084472656
+INFO:root:Pump ON
+INFO:root:Pump OFF - 200ml
+INFO:root:
+########## Date: 25/05/2024 Time: 04:00:05
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 12.5
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 63%, 15C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 41.13
+INFO:root:
+Lower:
+Soil Moisture: 62.47
+INFO:root:
+Soil Moisture Average %: 51.8
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:Predicted value: 24.549999237060547
+INFO:root:
+########## Date: 25/05/2024 Time: 04:03:01
+INFO:root:
+Reading Light...
+INFO:root:Light OK! 12.92
+INFO:root:
+Reading Air...
+INFO:root:Air OK! 64%, 15C
+INFO:root:
+Reading Soils...
+INFO:root:
+Upper:
+Soil Moisture: 40.48
+INFO:root:
+Lower:
+Soil Moisture: 62.32
+INFO:root:
+Soil Moisture Average %: 51.4
+INFO:root:Packing OK!
+INFO:root:
+Logging Data...
+INFO:root:Logging plant_data.csv OK!
+INFO:root:
+Predicting
+INFO:root:Predicted value: 31.700000762939453
